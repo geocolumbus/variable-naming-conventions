@@ -1,0 +1,58 @@
+Type
+Style
+Form
+Examples
+
+boolean
+lower snake case
+form of a question
+is_available
+has_more
+
+class
+cap words
+noun<br>first argument must be ```cls```
+Person(cls,...
+PropertyClaim(cls,...
+
+constant
+upper snake case
+noun
+MAX_COUNT
+TOTAL
+
+filename
+kebab lower case
+noun
+person-list.component.ts
+person-list.component.html
+
+function
+lower snake case
+verb<br>first argument must be ```self```
+calculate_roi(self, ...
+reverse_string(self, ...
+
+function (private)
+lower snake case<br>prepend underscore
+verb
+_calculate_roi
+_reverse_string
+
+global variable
+lower snake case
+noun
+person_name
+max_count
+
+package
+lower snake case
+noun
+form
+customer_service
+
+variable
+lower snake case
+noun
+person_name
+associate_id
