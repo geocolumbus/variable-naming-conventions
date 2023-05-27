@@ -19,8 +19,8 @@ function createTableFromTextFile(text) {
     while (lineCounter < textLines.length) {
         table += "<tr>"
         table += `<td valign="top">${textLines[lineCounter++].trim()}</td>`
-        table += `<td valign="top">${textLines[lineCounter++].trim()}</td>`
-        table += `<td valign="top">${textLines[lineCounter++].trim()}</td>`
+        // table += `<td valign="top">${textLines[lineCounter++].trim()}</td>`
+        // table += `<td valign="top">${textLines[lineCounter++].trim()}</td>`
         table += "<td valign=\"top\">\n\n```text\n"
         while (textLines[lineCounter].trim() !== "") {
             table += `${textLines[lineCounter].trim()}\n`

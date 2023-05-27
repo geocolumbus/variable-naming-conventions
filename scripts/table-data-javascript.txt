@@ -1,64 +1,42 @@
 Type
-Style
-Form
 Examples
 
 boolean
-camelcase
-form of a question
 isAvailable
 hasMore
 
 class
-cap words
-noun
 Person
 PropertyClaim
 
 components
-pascal case
-noun
 DisplayPanel
 PersonList
 
 constant
-upper snake case
-noun
 MAX_COUNT
 TOTAL
 
 filename
-kebab lower case
-noun
 person-list.component.ts
 person-list.component.html
 
 function
-camelcase
-verb
 calculateROI
 reverseString
 
 function (private)
-camelcase<br>prepend underscore
-verb
 _calculateROI
 _reverseString
 
 global variable
-mutable - camelcase<br>immutable - upper snake case
-noun
 personName
 MAX_COUNT
 
 method
-camelcase
-verb
 getPersonName
 setPersonName
 
 variable
-camelcase
-noun
 personName
 associateId
