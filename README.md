@@ -73,7 +73,7 @@ associateId
 is_available
 has_more
 ```
-</td></tr><tr><td valign="top">class</td><td valign="top">cap words</td><td valign="top">noun<br>first argument must be ```cls```</td><td valign="top">
+</td></tr><tr><td valign="top">class</td><td valign="top">cap words</td><td valign="top">noun<br>first argument must be "cls"</td><td valign="top">
 
 ```text
 Person(cls,...
@@ -91,7 +91,7 @@ TOTAL
 person-list.component.ts
 person-list.component.html
 ```
-</td></tr><tr><td valign="top">function</td><td valign="top">lower snake case</td><td valign="top">verb<br>first argument must be ```self```</td><td valign="top">
+</td></tr><tr><td valign="top">function</td><td valign="top">lower snake case</td><td valign="top">verb<br>first argument must be "self"</td><td valign="top">
 
 ```text
 calculate_roi(self, ...

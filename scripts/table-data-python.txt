@@ -11,7 +11,7 @@ has_more
 
 class
 cap words
-noun<br>first argument must be ```cls```
+noun<br>first argument must be "cls"
 Person(cls,...
 PropertyClaim(cls,...
 
@@ -29,7 +29,7 @@ person-list.component.html
 
 function
 lower snake case
-verb<br>first argument must be ```self```
+verb<br>first argument must be "self"
 calculate_roi(self, ...
 reverse_string(self, ...
 
